@@ -4,6 +4,10 @@ db8-engine is a free and open source python application that allows you to to pe
 So far, db8-engine features the following:
 * Nothing
 
+**Planned features**
+* Judge info on command
+* Probabilities based on W/L v opponent (side odds with respect to opponent)
+
 # Usage
 You will need to have python pre-installed for this to work. Go [here](https://www.python.org/downloads/) to install the latest version of python.
 **While installing python make sure to choose the build for your corresponding OS** If you are a MacOS user, download MacOS python. Should be simple.
